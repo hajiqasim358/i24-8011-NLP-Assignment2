@@ -1,0 +1,450 @@
+{
+    "C1_PPMI": {
+        "پاکستان": [
+            {
+                "word": "کرکٹ",
+                "similarity": 0.2175
+            },
+            {
+                "word": "میچ",
+                "similarity": 0.1761
+            },
+            {
+                "word": "میں",
+                "similarity": 0.1549
+            },
+            {
+                "word": "کے",
+                "similarity": 0.1517
+            },
+            {
+                "word": "نے",
+                "similarity": 0.1491
+            }
+        ],
+        "حکومت": [
+            {
+                "word": "طالبان",
+                "similarity": 0.2175
+            },
+            {
+                "word": "عبوری",
+                "similarity": 0.1896
+            },
+            {
+                "word": "خاتمہ",
+                "similarity": 0.1812
+            },
+            {
+                "word": "الاسد",
+                "similarity": 0.161
+            },
+            {
+                "word": "افغانستان",
+                "similarity": 0.1515
+            }
+        ],
+        "عدالت": [
+            {
+                "word": "مقدمے",
+                "similarity": 0.1756
+            },
+            {
+                "word": "سماعت",
+                "similarity": 0.167
+            },
+            {
+                "word": "پھپھو",
+                "similarity": 0.1618
+            },
+            {
+                "word": "چشم",
+                "similarity": 0.1616
+            },
+            {
+                "word": "فیصلے",
+                "similarity": 0.1588
+            }
+        ],
+        "معیشت": [
+            {
+                "word": "سکیورٹی،",
+                "similarity": 0.459
+            },
+            {
+                "word": "رازوں،",
+                "similarity": 0.415
+            },
+            {
+                "word": "افراط",
+                "similarity": 0.3525
+            },
+            {
+                "word": "پابندیوں،",
+                "similarity": 0.3415
+            },
+            {
+                "word": "کوئن،",
+                "similarity": 0.3309
+            }
+        ],
+        "فوج": [
+            {
+                "word": "چھپاتے",
+                "similarity": 0.2278
+            },
+            {
+                "word": "کرنل",
+                "similarity": 0.2261
+            },
+            {
+                "word": "بکملا",
+                "similarity": 0.2152
+            },
+            {
+                "word": "سنتوش",
+                "similarity": 0.2114
+            },
+            {
+                "word": "امریکی",
+                "similarity": 0.1781
+            }
+        ]
+    },
+    "C2_Raw_SkipGram_100D": {
+        "پاکستان": [
+            {
+                "word": "205",
+                "similarity": 0.6237
+            },
+            {
+                "word": "239",
+                "similarity": 0.5893
+            },
+            {
+                "word": "208",
+                "similarity": 0.5858
+            },
+            {
+                "word": "193",
+                "similarity": 0.5837
+            },
+            {
+                "word": "149",
+                "similarity": 0.5798
+            }
+        ],
+        "حکومت": [
+            {
+                "word": "مخالفین",
+                "similarity": 0.5653
+            },
+            {
+                "word": "طالبان",
+                "similarity": 0.5566
+            },
+            {
+                "word": "خاتمہ",
+                "similarity": 0.5487
+            },
+            {
+                "word": "212",
+                "similarity": 0.5239
+            },
+            {
+                "word": "کنڑ",
+                "similarity": 0.5096
+            }
+        ],
+        "عدالت": [
+            {
+                "word": "دلائل",
+                "similarity": 0.6512
+            },
+            {
+                "word": "سماعت",
+                "similarity": 0.644
+            },
+            {
+                "word": "181",
+                "similarity": 0.6365
+            },
+            {
+                "word": "پریزرویشن",
+                "similarity": 0.5968
+            },
+            {
+                "word": "سیشنز",
+                "similarity": 0.5759
+            }
+        ],
+        "معیشت": [
+            {
+                "word": "رازوں،",
+                "similarity": 0.7699
+            },
+            {
+                "word": "کوئن،",
+                "similarity": 0.7455
+            },
+            {
+                "word": "تنہائی،",
+                "similarity": 0.7193
+            },
+            {
+                "word": "پابندیوں،",
+                "similarity": 0.7181
+            },
+            {
+                "word": "اقتصادی",
+                "similarity": 0.7168
+            }
+        ],
+        "فوج": [
+            {
+                "word": "ہیگستھ",
+                "similarity": 0.5811
+            },
+            {
+                "word": "حق‘،",
+                "similarity": 0.5613
+            },
+            {
+                "word": "بھرتی",
+                "similarity": 0.5609
+            },
+            {
+                "word": "بکملا",
+                "similarity": 0.557
+            },
+            {
+                "word": "یزید",
+                "similarity": 0.5542
+            }
+        ]
+    },
+    "C3_Cleaned_SkipGram_100D": {
+        "پاکستان": [
+            {
+                "word": "سابائنا",
+                "similarity": 0.548
+            },
+            {
+                "word": "آسکے۔",
+                "similarity": 0.5329
+            },
+            {
+                "word": "نیشن",
+                "similarity": 0.5323
+            },
+            {
+                "word": "جمیکا",
+                "similarity": 0.5322
+            },
+            {
+                "word": "گیلری",
+                "similarity": 0.5303
+            }
+        ],
+        "حکومت": [
+            {
+                "word": "طالبان",
+                "similarity": 0.5909
+            },
+            {
+                "word": "خاتمہ",
+                "similarity": 0.5733
+            },
+            {
+                "word": "مخالفین",
+                "similarity": 0.551
+            },
+            {
+                "word": "آسٹریا",
+                "similarity": 0.5279
+            },
+            {
+                "word": "جمہوری",
+                "similarity": 0.5273
+            }
+        ],
+        "عدالت": [
+            {
+                "word": "دلائل",
+                "similarity": 0.6622
+            },
+            {
+                "word": "سماعت",
+                "similarity": 0.6511
+            },
+            {
+                "word": "پریزرویشن",
+                "similarity": 0.595
+            },
+            {
+                "word": "اینیمل",
+                "similarity": 0.5879
+            },
+            {
+                "word": "مجوکا",
+                "similarity": 0.5847
+            }
+        ],
+        "معیشت": [
+            {
+                "word": "رازوں،",
+                "similarity": 0.7398
+            },
+            {
+                "word": "کوئن،",
+                "similarity": 0.7144
+            },
+            {
+                "word": "ضخیم",
+                "similarity": 0.7043
+            },
+            {
+                "word": "پابندیوں،",
+                "similarity": 0.6923
+            },
+            {
+                "word": "اقتصادی",
+                "similarity": 0.6777
+            }
+        ],
+        "فوج": [
+            {
+                "word": "حق‘،",
+                "similarity": 0.5797
+            },
+            {
+                "word": "چھپاتے",
+                "similarity": 0.5795
+            },
+            {
+                "word": "یزید",
+                "similarity": 0.5703
+            },
+            {
+                "word": "بکملا",
+                "similarity": 0.5689
+            },
+            {
+                "word": "’معرکہ",
+                "similarity": 0.5476
+            }
+        ]
+    },
+    "C4_Cleaned_SkipGram_200D": {
+        "پاکستان": [
+            {
+                "word": "پارک،",
+                "similarity": 0.5273
+            },
+            {
+                "word": "سابائنا",
+                "similarity": 0.5259
+            },
+            {
+                "word": "جمیکا",
+                "similarity": 0.4889
+            },
+            {
+                "word": "گیلری",
+                "similarity": 0.4822
+            },
+            {
+                "word": "آسکے۔",
+                "similarity": 0.4797
+            }
+        ],
+        "حکومت": [
+            {
+                "word": "کنڑ",
+                "similarity": 0.5003
+            },
+            {
+                "word": "خاتمہ",
+                "similarity": 0.4991
+            },
+            {
+                "word": "مخالفین",
+                "similarity": 0.4946
+            },
+            {
+                "word": "کھاتی",
+                "similarity": 0.493
+            },
+            {
+                "word": "بارہا",
+                "similarity": 0.471
+            }
+        ],
+        "عدالت": [
+            {
+                "word": "دلائل",
+                "similarity": 0.5686
+            },
+            {
+                "word": "قلمبند",
+                "similarity": 0.5532
+            },
+            {
+                "word": "گواہان",
+                "similarity": 0.5491
+            },
+            {
+                "word": "گئی؟",
+                "similarity": 0.5479
+            },
+            {
+                "word": "مویشیوں",
+                "similarity": 0.544
+            }
+        ],
+        "معیشت": [
+            {
+                "word": "ضخیم",
+                "similarity": 0.6841
+            },
+            {
+                "word": "رازوں،",
+                "similarity": 0.6813
+            },
+            {
+                "word": "اقتصادی",
+                "similarity": 0.6367
+            },
+            {
+                "word": "پابندیوں،",
+                "similarity": 0.6306
+            },
+            {
+                "word": "تنہائی،",
+                "similarity": 0.629
+            }
+        ],
+        "فوج": [
+            {
+                "word": "ہیگستھ",
+                "similarity": 0.5399
+            },
+            {
+                "word": "یزید",
+                "similarity": 0.5396
+            },
+            {
+                "word": "بکملا",
+                "similarity": 0.5369
+            },
+            {
+                "word": "حق‘،",
+                "similarity": 0.5341
+            },
+            {
+                "word": "بھرتی",
+                "similarity": 0.5338
+            }
+        ]
+    }
+}

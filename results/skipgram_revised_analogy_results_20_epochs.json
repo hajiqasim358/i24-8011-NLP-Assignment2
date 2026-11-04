@@ -1,0 +1,222 @@
+[
+    {
+        "test": 1,
+        "a": "پاکستان",
+        "b": "پاکستانی",
+        "c": "انڈیا",
+        "expected": "انڈین",
+        "top_3_candidates": [
+            {
+                "word": "حق‘،",
+                "similarity": 0.4612
+            },
+            {
+                "word": "’معرکہ",
+                "similarity": 0.4398
+            },
+            {
+                "word": "لگائے۔",
+                "similarity": 0.4351
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 2,
+        "a": "انڈیا",
+        "b": "انڈین",
+        "c": "پاکستان",
+        "expected": "پاکستانی",
+        "top_3_candidates": [
+            {
+                "word": "کونسٹاس",
+                "similarity": 0.4462
+            },
+            {
+                "word": "پست",
+                "similarity": 0.4401
+            },
+            {
+                "word": "دھول",
+                "similarity": 0.4292
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 3,
+        "a": "ایران",
+        "b": "ایرانی",
+        "c": "چین",
+        "expected": "چینی",
+        "top_3_candidates": [
+            {
+                "word": "بیس‘",
+                "similarity": 0.4808
+            },
+            {
+                "word": "1977",
+                "similarity": 0.4791
+            },
+            {
+                "word": "(آلہ)",
+                "similarity": 0.4781
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 4,
+        "a": "چین",
+        "b": "چینی",
+        "c": "ایران",
+        "expected": "ایرانی",
+        "top_3_candidates": [
+            {
+                "word": "وانگ",
+                "similarity": 0.53
+            },
+            {
+                "word": "یی",
+                "similarity": 0.5161
+            },
+            {
+                "word": "ممتا",
+                "similarity": 0.5081
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 5,
+        "a": "امریکہ",
+        "b": "امریکی",
+        "c": "ایران",
+        "expected": "ایرانی",
+        "top_3_candidates": [
+            {
+                "word": "صدر",
+                "similarity": 0.5938
+            },
+            {
+                "word": "ابراہم",
+                "similarity": 0.5656
+            },
+            {
+                "word": "’شراکت",
+                "similarity": 0.5539
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 6,
+        "a": "پاکستان",
+        "b": "پاکستانی",
+        "c": "امریکہ",
+        "expected": "امریکی",
+        "top_3_candidates": [
+            {
+                "word": "کیپشن",
+                "similarity": 0.4298
+            },
+            {
+                "word": "ٹریول",
+                "similarity": 0.417
+            },
+            {
+                "word": "سیاحت",
+                "similarity": 0.404
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 7,
+        "a": "دن",
+        "b": "رات",
+        "c": "صبح",
+        "expected": "شام",
+        "top_3_candidates": [
+            {
+                "word": "’ملزم",
+                "similarity": 0.5025
+            },
+            {
+                "word": "دیکشت",
+                "similarity": 0.4582
+            },
+            {
+                "word": "بج",
+                "similarity": 0.4542
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 8,
+        "a": "کامیاب",
+        "b": "ناکام",
+        "c": "اچھا",
+        "expected": "برا",
+        "top_3_candidates": [
+            {
+                "word": "گایوں",
+                "similarity": 0.4838
+            },
+            {
+                "word": "وارانسی",
+                "similarity": 0.4687
+            },
+            {
+                "word": "کام'",
+                "similarity": 0.4611
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 9,
+        "a": "حکومت",
+        "b": "وزیراعظم",
+        "c": "عدالت",
+        "expected": "جج",
+        "top_3_candidates": [
+            {
+                "word": "پرائم",
+                "similarity": 0.4903
+            },
+            {
+                "word": "عراقچی",
+                "similarity": 0.4875
+            },
+            {
+                "word": "منسٹر",
+                "similarity": 0.481
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 10,
+        "a": "پاکستان",
+        "b": "انڈیا",
+        "c": "ایران",
+        "expected": "چین",
+        "top_3_candidates": [
+            {
+                "word": "بحالی،",
+                "similarity": 0.5262
+            },
+            {
+                "word": "1.7",
+                "similarity": 0.4942
+            },
+            {
+                "word": "امریکہ،",
+                "similarity": 0.4874
+            }
+        ],
+        "correct": false
+    }
+]

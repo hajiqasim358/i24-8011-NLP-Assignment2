@@ -1,0 +1,490 @@
+{
+    "C1": [
+        {
+            "query": "پاکستان",
+            "relevant_word": "پاکستانی",
+            "rank": 22,
+            "reciprocal_rank": 0.045455
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "انڈیا",
+            "rank": 12,
+            "reciprocal_rank": 0.083333
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "کرکٹ",
+            "rank": 1,
+            "reciprocal_rank": 1.0
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "ملک",
+            "rank": 501,
+            "reciprocal_rank": 0.001996
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزیر",
+            "rank": 312,
+            "reciprocal_rank": 0.003205
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزارت",
+            "rank": 566,
+            "reciprocal_rank": 0.001767
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وفاقی",
+            "rank": 56,
+            "reciprocal_rank": 0.017857
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزیراعظم",
+            "rank": 459,
+            "reciprocal_rank": 0.002179
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "جج",
+            "rank": 22,
+            "reciprocal_rank": 0.045455
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "مقدمہ",
+            "rank": 164,
+            "reciprocal_rank": 0.006098
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "سماعت",
+            "rank": 2,
+            "reciprocal_rank": 0.5
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "مجرم",
+            "rank": 73,
+            "reciprocal_rank": 0.013699
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "معاشی",
+            "rank": 91,
+            "reciprocal_rank": 0.010989
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "تجارت",
+            "rank": 300,
+            "reciprocal_rank": 0.003333
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "اقتصادی",
+            "rank": 10,
+            "reciprocal_rank": 0.1
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "کاروبار",
+            "rank": 8545,
+            "reciprocal_rank": 0.000117
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "افواج",
+            "rank": 68,
+            "reciprocal_rank": 0.014706
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "دفاع",
+            "rank": 17,
+            "reciprocal_rank": 0.058824
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "سپاہی",
+            "rank": 461,
+            "reciprocal_rank": 0.002169
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "فوجی",
+            "rank": 112,
+            "reciprocal_rank": 0.008929
+        }
+    ],
+    "C2": [
+        {
+            "query": "پاکستان",
+            "relevant_word": "پاکستانی",
+            "rank": 1816,
+            "reciprocal_rank": 0.000551
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "انڈیا",
+            "rank": 157,
+            "reciprocal_rank": 0.006369
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "کرکٹ",
+            "rank": 44,
+            "reciprocal_rank": 0.022727
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "ملک",
+            "rank": 5979,
+            "reciprocal_rank": 0.000167
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزیر",
+            "rank": 1124,
+            "reciprocal_rank": 0.00089
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزارت",
+            "rank": 239,
+            "reciprocal_rank": 0.004184
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وفاقی",
+            "rank": 47,
+            "reciprocal_rank": 0.021277
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزیراعظم",
+            "rank": 290,
+            "reciprocal_rank": 0.003448
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "جج",
+            "rank": 19,
+            "reciprocal_rank": 0.052632
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "مقدمہ",
+            "rank": 205,
+            "reciprocal_rank": 0.004878
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "سماعت",
+            "rank": 2,
+            "reciprocal_rank": 0.5
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "مجرم",
+            "rank": 41,
+            "reciprocal_rank": 0.02439
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "معاشی",
+            "rank": 203,
+            "reciprocal_rank": 0.004926
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "تجارت",
+            "rank": 159,
+            "reciprocal_rank": 0.006289
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "اقتصادی",
+            "rank": 5,
+            "reciprocal_rank": 0.2
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "کاروبار",
+            "rank": 9291,
+            "reciprocal_rank": 0.000108
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "افواج",
+            "rank": 72,
+            "reciprocal_rank": 0.013889
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "دفاع",
+            "rank": 6,
+            "reciprocal_rank": 0.166667
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "سپاہی",
+            "rank": 3280,
+            "reciprocal_rank": 0.000305
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "فوجی",
+            "rank": 469,
+            "reciprocal_rank": 0.002132
+        }
+    ],
+    "C3": [
+        {
+            "query": "پاکستان",
+            "relevant_word": "پاکستانی",
+            "rank": 1513,
+            "reciprocal_rank": 0.000661
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "انڈیا",
+            "rank": 229,
+            "reciprocal_rank": 0.004367
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "کرکٹ",
+            "rank": 26,
+            "reciprocal_rank": 0.038462
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "ملک",
+            "rank": 4491,
+            "reciprocal_rank": 0.000223
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزیر",
+            "rank": 732,
+            "reciprocal_rank": 0.001366
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزارت",
+            "rank": 501,
+            "reciprocal_rank": 0.001996
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وفاقی",
+            "rank": 30,
+            "reciprocal_rank": 0.033333
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزیراعظم",
+            "rank": 3798,
+            "reciprocal_rank": 0.000263
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "جج",
+            "rank": 10,
+            "reciprocal_rank": 0.1
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "مقدمہ",
+            "rank": 98,
+            "reciprocal_rank": 0.010204
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "سماعت",
+            "rank": 2,
+            "reciprocal_rank": 0.5
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "مجرم",
+            "rank": 32,
+            "reciprocal_rank": 0.03125
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "معاشی",
+            "rank": 128,
+            "reciprocal_rank": 0.007812
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "تجارت",
+            "rank": 190,
+            "reciprocal_rank": 0.005263
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "اقتصادی",
+            "rank": 5,
+            "reciprocal_rank": 0.2
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "کاروبار",
+            "rank": 9091,
+            "reciprocal_rank": 0.00011
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "افواج",
+            "rank": 25,
+            "reciprocal_rank": 0.04
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "دفاع",
+            "rank": 23,
+            "reciprocal_rank": 0.043478
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "سپاہی",
+            "rank": 6325,
+            "reciprocal_rank": 0.000158
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "فوجی",
+            "rank": 814,
+            "reciprocal_rank": 0.001229
+        }
+    ],
+    "C4": [
+        {
+            "query": "پاکستان",
+            "relevant_word": "پاکستانی",
+            "rank": 1531,
+            "reciprocal_rank": 0.000653
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "انڈیا",
+            "rank": 347,
+            "reciprocal_rank": 0.002882
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "کرکٹ",
+            "rank": 109,
+            "reciprocal_rank": 0.009174
+        },
+        {
+            "query": "پاکستان",
+            "relevant_word": "ملک",
+            "rank": 4940,
+            "reciprocal_rank": 0.000202
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزیر",
+            "rank": 305,
+            "reciprocal_rank": 0.003279
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزارت",
+            "rank": 727,
+            "reciprocal_rank": 0.001376
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وفاقی",
+            "rank": 35,
+            "reciprocal_rank": 0.028571
+        },
+        {
+            "query": "حکومت",
+            "relevant_word": "وزیراعظم",
+            "rank": 918,
+            "reciprocal_rank": 0.001089
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "جج",
+            "rank": 31,
+            "reciprocal_rank": 0.032258
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "مقدمہ",
+            "rank": 111,
+            "reciprocal_rank": 0.009009
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "سماعت",
+            "rank": 13,
+            "reciprocal_rank": 0.076923
+        },
+        {
+            "query": "عدالت",
+            "relevant_word": "مجرم",
+            "rank": 45,
+            "reciprocal_rank": 0.022222
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "معاشی",
+            "rank": 249,
+            "reciprocal_rank": 0.004016
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "تجارت",
+            "rank": 209,
+            "reciprocal_rank": 0.004785
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "اقتصادی",
+            "rank": 3,
+            "reciprocal_rank": 0.333333
+        },
+        {
+            "query": "معیشت",
+            "relevant_word": "کاروبار",
+            "rank": 9295,
+            "reciprocal_rank": 0.000108
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "افواج",
+            "rank": 72,
+            "reciprocal_rank": 0.013889
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "دفاع",
+            "rank": 29,
+            "reciprocal_rank": 0.034483
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "سپاہی",
+            "rank": 1393,
+            "reciprocal_rank": 0.000718
+        },
+        {
+            "query": "فوج",
+            "relevant_word": "فوجی",
+            "rank": 1339,
+            "reciprocal_rank": 0.000747
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+[
+    {
+        "test": 1,
+        "a": "پاکستان",
+        "b": "پاکستانی",
+        "c": "ہندوستان",
+        "expected": "ہندوستانی",
+        "top_3_candidates": [
+            {
+                "word": "منقسم",
+                "similarity": 0.4484
+            },
+            {
+                "word": "تعینات",
+                "similarity": 0.4473
+            },
+            {
+                "word": "توسیع،",
+                "similarity": 0.4471
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 2,
+        "a": "چین",
+        "b": "چینی",
+        "c": "پاکستان",
+        "expected": "پاکستانی",
+        "top_3_candidates": [
+            {
+                "word": "پیکا",
+                "similarity": 0.5199
+            },
+            {
+                "word": "تعزیرات",
+                "similarity": 0.472
+            },
+            {
+                "word": "افریقہ",
+                "similarity": 0.4287
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 3,
+        "a": "مرد",
+        "b": "عورت",
+        "c": "بیٹا",
+        "expected": "بیٹی",
+        "top_3_candidates": [
+            {
+                "word": "طیب",
+                "similarity": 0.5887
+            },
+            {
+                "word": "ولزڈن",
+                "similarity": 0.5882
+            },
+            {
+                "word": "بیٹیاں",
+                "similarity": 0.5834
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 4,
+        "a": "دن",
+        "b": "رات",
+        "c": "صبح",
+        "expected": "شام",
+        "top_3_candidates": [
+            {
+                "word": "’ملزم",
+                "similarity": 0.5025
+            },
+            {
+                "word": "دیکشت",
+                "similarity": 0.4582
+            },
+            {
+                "word": "بج",
+                "similarity": 0.4542
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 5,
+        "a": "اچھا",
+        "b": "برا",
+        "c": "کامیاب",
+        "expected": "ناکام",
+        "top_3_candidates": [
+            {
+                "word": "ہو",
+                "similarity": 0.4794
+            },
+            {
+                "word": "ٹھہرے",
+                "similarity": 0.4408
+            },
+            {
+                "word": "متھن",
+                "similarity": 0.4279
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 6,
+        "a": "حکومت",
+        "b": "وزیراعظم",
+        "c": "عدالت",
+        "expected": "جج",
+        "top_3_candidates": [
+            {
+                "word": "پرائم",
+                "similarity": 0.4903
+            },
+            {
+                "word": "عراقچی",
+                "similarity": 0.4875
+            },
+            {
+                "word": "منسٹر",
+                "similarity": 0.481
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 7,
+        "a": "کرکٹ",
+        "b": "کھلاڑی",
+        "c": "فٹبال",
+        "expected": "فٹبالر",
+        "top_3_candidates": [
+            {
+                "word": "آفیشل",
+                "similarity": 0.6418
+            },
+            {
+                "word": "میسی",
+                "similarity": 0.5786
+            },
+            {
+                "word": "اختتام",
+                "similarity": 0.5089
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 8,
+        "a": "ایران",
+        "b": "ایرانی",
+        "c": "چین",
+        "expected": "چینی",
+        "top_3_candidates": [
+            {
+                "word": "بیس‘",
+                "similarity": 0.4808
+            },
+            {
+                "word": "1977",
+                "similarity": 0.4791
+            },
+            {
+                "word": "(آلہ)",
+                "similarity": 0.4781
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 9,
+        "a": "بیٹا",
+        "b": "بیٹی",
+        "c": "بچہ",
+        "expected": "بچوں",
+        "top_3_candidates": [
+            {
+                "word": "کوکھ",
+                "similarity": 0.508
+            },
+            {
+                "word": "نیتجے",
+                "similarity": 0.4799
+            },
+            {
+                "word": "جونز",
+                "similarity": 0.4621
+            }
+        ],
+        "correct": false
+    },
+    {
+        "test": 10,
+        "a": "تعلیم",
+        "b": "استاد",
+        "c": "صحت",
+        "expected": "ڈاکٹر",
+        "top_3_candidates": [
+            {
+                "word": "مند،",
+                "similarity": 0.5516
+            },
+            {
+                "word": "نفسیاتی",
+                "similarity": 0.5411
+            },
+            {
+                "word": "مضبوط،",
+                "similarity": 0.5366
+            }
+        ],
+        "correct": false
+    }
+]

@@ -1,0 +1,5 @@
+condition,model,corpus,dimensions,mrr
+C1,PPMI,Cleaned,9356,0.09600544402525703
+C2,Skip Gram,Raw,100,0.05179144065245359
+C3,Skip Gram,Cleaned,100,0.05100876590393518
+C4,Skip Gram,Cleaned,200,0.02898585517109876

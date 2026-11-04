@@ -1,0 +1,30 @@
+[
+    {
+        "condition": "C1",
+        "model": "PPMI",
+        "corpus": "Cleaned",
+        "dimensions": 9356,
+        "mrr": 0.09600544402525703
+    },
+    {
+        "condition": "C2",
+        "model": "Skip Gram",
+        "corpus": "Raw",
+        "dimensions": 100,
+        "mrr": 0.05179144065245359
+    },
+    {
+        "condition": "C3",
+        "model": "Skip Gram",
+        "corpus": "Cleaned",
+        "dimensions": 100,
+        "mrr": 0.05100876590393518
+    },
+    {
+        "condition": "C4",
+        "model": "Skip Gram",
+        "corpus": "Cleaned",
+        "dimensions": 200,
+        "mrr": 0.02898585517109876
+    }
+]

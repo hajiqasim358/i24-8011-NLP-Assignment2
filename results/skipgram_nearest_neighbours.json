@@ -1,0 +1,362 @@
+{
+    "Pakistan": {
+        "query_word": "پاکستان",
+        "neighbours": [
+            {
+                "word": "ٹرافی",
+                "similarity": 0.8366
+            },
+            {
+                "word": "انڈر",
+                "similarity": 0.8132
+            },
+            {
+                "word": "کرکٹ",
+                "similarity": 0.8118
+            },
+            {
+                "word": "چیمپیئنز",
+                "similarity": 0.8116
+            },
+            {
+                "word": "ٹیسٹ",
+                "similarity": 0.8107
+            },
+            {
+                "word": "ٹیم",
+                "similarity": 0.8063
+            },
+            {
+                "word": "بورڈ",
+                "similarity": 0.8057
+            },
+            {
+                "word": "انڈیا",
+                "similarity": 0.7991
+            },
+            {
+                "word": "ٹیمیں",
+                "similarity": 0.7791
+            },
+            {
+                "word": "نیشن",
+                "similarity": 0.7703
+            }
+        ]
+    },
+    "Hukumat": {
+        "query_word": "حکومت",
+        "neighbours": [
+            {
+                "word": "فیصل",
+                "similarity": 0.8613
+            },
+            {
+                "word": "تحقیقات",
+                "similarity": 0.8227
+            },
+            {
+                "word": "وزارت",
+                "similarity": 0.8072
+            },
+            {
+                "word": "وفاقی",
+                "similarity": 0.8065
+            },
+            {
+                "word": "خارجہ",
+                "similarity": 0.8011
+            },
+            {
+                "word": "’پاکستان",
+                "similarity": 0.8
+            },
+            {
+                "word": "ذرائع",
+                "similarity": 0.7957
+            },
+            {
+                "word": "وکیل",
+                "similarity": 0.7907
+            },
+            {
+                "word": "واوڈا",
+                "similarity": 0.7883
+            },
+            {
+                "word": "ترجمان",
+                "similarity": 0.7762
+            }
+        ]
+    },
+    "Adalat": {
+        "query_word": "عدالت",
+        "neighbours": [
+            {
+                "word": "مجرم",
+                "similarity": 0.8627
+            },
+            {
+                "word": "منگل",
+                "similarity": 0.8195
+            },
+            {
+                "word": "ملزم",
+                "similarity": 0.8104
+            },
+            {
+                "word": "سماعت",
+                "similarity": 0.8104
+            },
+            {
+                "word": "سینٹکام",
+                "similarity": 0.8071
+            },
+            {
+                "word": "پیشی",
+                "similarity": 0.8047
+            },
+            {
+                "word": "ملزمہ",
+                "similarity": 0.8012
+            },
+            {
+                "word": "کورٹ",
+                "similarity": 0.7893
+            },
+            {
+                "word": "فیصلے",
+                "similarity": 0.789
+            },
+            {
+                "word": "مقدمے",
+                "similarity": 0.7886
+            }
+        ]
+    },
+    "Maeeshat": {
+        "query_word": "معیشت",
+        "neighbours": [
+            {
+                "word": "کرک",
+                "similarity": 0.8669
+            },
+            {
+                "word": "معاشی",
+                "similarity": 0.8659
+            },
+            {
+                "word": "رکاوٹوں",
+                "similarity": 0.844
+            },
+            {
+                "word": "تجارت",
+                "similarity": 0.8385
+            },
+            {
+                "word": "گرم",
+                "similarity": 0.8324
+            },
+            {
+                "word": "دروازہ",
+                "similarity": 0.8183
+            },
+            {
+                "word": "ملاقاتوں",
+                "similarity": 0.8174
+            },
+            {
+                "word": "سرحد",
+                "similarity": 0.811
+            },
+            {
+                "word": "دستوں",
+                "similarity": 0.8062
+            },
+            {
+                "word": "محنت،",
+                "similarity": 0.8053
+            }
+        ]
+    },
+    "Fauj": {
+        "query_word": "فوج",
+        "neighbours": [
+            {
+                "word": "یحیی",
+                "similarity": 0.8538
+            },
+            {
+                "word": "ترجمان",
+                "similarity": 0.8521
+            },
+            {
+                "word": "افواج",
+                "similarity": 0.8371
+            },
+            {
+                "word": "دفاع",
+                "similarity": 0.8364
+            },
+            {
+                "word": "پیشی",
+                "similarity": 0.8342
+            },
+            {
+                "word": "یمنی",
+                "similarity": 0.8227
+            },
+            {
+                "word": "حوثیوں",
+                "similarity": 0.8223
+            },
+            {
+                "word": "السریع",
+                "similarity": 0.8199
+            },
+            {
+                "word": "وزیراعظم",
+                "similarity": 0.8167
+            },
+            {
+                "word": "کشمیر",
+                "similarity": 0.8158
+            }
+        ]
+    },
+    "Sehat": {
+        "query_word": "صحت",
+        "neighbours": [
+            {
+                "word": "بعلبک",
+                "similarity": 0.8474
+            },
+            {
+                "word": "(لبنان)",
+                "similarity": 0.844
+            },
+            {
+                "word": "آنتوں",
+                "similarity": 0.8274
+            },
+            {
+                "word": "کب",
+                "similarity": 0.826
+            },
+            {
+                "word": "رہائی",
+                "similarity": 0.8243
+            },
+            {
+                "word": "دھندلی",
+                "similarity": 0.816
+            },
+            {
+                "word": "جیل‘",
+                "similarity": 0.8143
+            },
+            {
+                "word": "خون",
+                "similarity": 0.812
+            },
+            {
+                "word": "زندگی،",
+                "similarity": 0.8027
+            },
+            {
+                "word": "بالخصوص",
+                "similarity": 0.8001
+            }
+        ]
+    },
+    "Taleem": {
+        "query_word": "تعلیم",
+        "neighbours": [
+            {
+                "word": "روف",
+                "similarity": 0.8569
+            },
+            {
+                "word": "مسعود،",
+                "similarity": 0.8547
+            },
+            {
+                "word": "ابرار",
+                "similarity": 0.8505
+            },
+            {
+                "word": "شامی",
+                "similarity": 0.8496
+            },
+            {
+                "word": "رضوان،",
+                "similarity": 0.8496
+            },
+            {
+                "word": "ناٹ",
+                "similarity": 0.8491
+            },
+            {
+                "word": "تین،",
+                "similarity": 0.8476
+            },
+            {
+                "word": "شکیل،",
+                "similarity": 0.8442
+            },
+            {
+                "word": "کررہے",
+                "similarity": 0.8369
+            },
+            {
+                "word": "نسیم",
+                "similarity": 0.8316
+            }
+        ]
+    },
+    "Aabadi": {
+        "query_word": "آبادی",
+        "neighbours": [
+            {
+                "word": "نہر",
+                "similarity": 0.8615
+            },
+            {
+                "word": "توقعات",
+                "similarity": 0.8544
+            },
+            {
+                "word": "نائجیریا",
+                "similarity": 0.853
+            },
+            {
+                "word": "مدار،",
+                "similarity": 0.8527
+            },
+            {
+                "word": "سویز",
+                "similarity": 0.8502
+            },
+            {
+                "word": "مہنگی",
+                "similarity": 0.8477
+            },
+            {
+                "word": "کوششوں",
+                "similarity": 0.8311
+            },
+            {
+                "word": "گزرگاہوں",
+                "similarity": 0.8276
+            },
+            {
+                "word": "رسم",
+                "similarity": 0.8257
+            },
+            {
+                "word": "یورپ",
+                "similarity": 0.8245
+            }
+        ]
+    }
+}
