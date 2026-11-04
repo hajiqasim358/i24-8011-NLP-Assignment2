@@ -1,0 +1,11 @@
+# Python version used for this project: 3.12.7
+# Install PyTorch with the CUDA 13.0 build from the official PyTorch package index.
+# The remaining packages can be installed from the default package index.
+
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.1.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+seaborn==0.13.2
+torch==2.12.1+cu130
