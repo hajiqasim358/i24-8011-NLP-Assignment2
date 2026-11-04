@@ -1,0 +1,4 @@
+Experiment,precision,recall,f1,support
+A1: Unidirectional LSTM,0.03333333333333333,0.042735042735042736,0.03745318352059925,117
+A2: No Dropout,0.0,0.0,0.0,117
+A3: Random Embeddings,0.0,0.0,0.0,117
