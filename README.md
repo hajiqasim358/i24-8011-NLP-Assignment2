@@ -255,6 +255,26 @@ The saved model checkpoint is:
 
 `models/transformer_topic_classifier.pt`
 
+### 8.2 BiLSTM vs. Transformer Comparison
+
+The BiLSTM and Transformer architectures use different approaches to process sequential text.
+
+The BiLSTM processes text in both forward and backward directions, capturing contextual information from both sides of a token. The Transformer uses self attention to capture relationships between tokens across an input sequence.
+
+The Transformer achieved a test accuracy of 78.95% and a macro F1 score of 61.65% on the five category topic classification task.
+
+The comparison considers five aspects:
+
+1. Classification accuracy and the difference between the models.
+2. Number of epochs required for convergence.
+3. Average training time per epoch and computational differences.
+4. Attention heatmaps showing which tokens receive higher attention weights.
+5. Suitability of BiLSTM and Transformer architectures for datasets containing only 200 to 300 articles.
+
+The BiLSTM provides bidirectional contextual representations through recurrent processing, whereas the Transformer uses multiple attention heads to learn relationships between tokens. The attention heatmaps provide an additional way to inspect the contextual information captured by the Transformer.
+
+For small datasets, model suitability depends on dataset size, model complexity, training time, and generalisation performance.
+
 ## Project Structure
 
 The following is the main project structure. Some generated result files may be added as experiments are updated.
